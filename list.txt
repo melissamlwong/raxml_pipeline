@@ -1,0 +1,2 @@
+input1.fa
+input2.fa
