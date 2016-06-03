@@ -18,7 +18,8 @@
 * #### Specify RAxML parameters
   * Number of threads (Default: 1)
   * Number of bootstraps (Default: 100)
-  * Partitions (Default(nucleotide): 3 codon positions; Default(protein): unpartitioned)
+  * Default partition for nucleotide: 3 codon positions
+  * Default partition for protein: unpartitioned
   * Protein model (Default: PROTGAMMAJTTF) 
   * Nucleotide model (Default: GTRGAMMA)
   * Outgroup (Default: None) *Can be specified using "-o" option
