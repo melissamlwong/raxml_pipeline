@@ -31,11 +31,11 @@
   * NOTE: full paths must be provided if the files are not in the same directory
 
 * #### Usage
-   ```javascript
+   ```bash
    ./auto_raxml_genetree_pipeline.sh [input_1.fa .. input_N.fa | input_list.txt]
    ```
 * #### Testing sample data
-   ```javascript
+   ```bash
    ./auto_raxml_genetree_pipeline.sh input1.fa input2.fa
 
    Reading 2 files in total
